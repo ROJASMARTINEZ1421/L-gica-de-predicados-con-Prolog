@@ -1,0 +1,2 @@
+# L-gica-de-predicados-con-Prolog
+1) Con los entregables de la actividad "Representación y esquematización del conocimiento" https://classroom.google.com/c/MjU5NTEyMDQzODA0/a/Mjc3NDQzMTYyMTA0/details deberás representar este mismo conocimiento a través de la lógica de predicados usando el lenguaje de programación Prolog. 2) Este programa representa el conocimiento base e importante del libro. Deberás construir tus primeros hechos y reglas.
